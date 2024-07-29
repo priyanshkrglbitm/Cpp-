@@ -4,3 +4,15 @@ Bugs are often logical errors, syntax errors, or runtime errors that prevent a p
 Debugging is the process of locating these issues and resolving them to ensure that the program behaves as expected.
 
 What Debug Means ? Identify Bugs , Analyzing Errors , Fixing Bugs , Verifying Fixes. 
+
+1. Using Debugger Tools
+Modern  (IDEs) like Visual Studio, IntelliJ IDEA, Eclipse, and others come with built-in debugger tools.
+  -> using Breakpoints
+  -> Step Over/Into/Out
+  -> Variable Inspection
+  -> Call Stack Analysis
+2. Logging and Print Statements
+3. Unit Testing
+4. Static Code Analysis : Static analysis tools analyze your code for potential errors without executing it. 
+      e.g-  Clang Static Analyzer , SonarQube
+5. Code Reviews
