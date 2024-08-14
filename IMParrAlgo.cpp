@@ -1,6 +1,8 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+// // C++ STL provides toupper() and tolower() functions to convert to uppercase and lowercase respectively.
+
 void displayArray(vector<int>&arr){
     cout<<"[ ";
     for(auto it:arr){
